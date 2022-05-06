@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gbdsantos/react-js-rocketseat-nlw-return">
+  <a href="https://github.com/gbdsantos/reactjs-rocketseat-nlw-return">
     🇺🇸
   </a>
 </p>
