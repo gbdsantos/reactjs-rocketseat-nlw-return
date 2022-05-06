@@ -8,14 +8,14 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gbdsantos/react-js-rocketseat-nlw-return.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gbdsantos/reactjs-rocketseat-nlw-return.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gbdsantos/react-js-rocketseat-nlw-return.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gbdsantos/reactjs-rocketseat-nlw-return.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/react-js-rocketseat-nlw-return.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/reactjs-rocketseat-nlw-return.svg">
 
-  <a href="https://github.com/gbdsantos/react-js-rocketseat-nlw-return/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/react-js-rocketseat-nlw-return.svg">
+  <a href="https://github.com/gbdsantos/reactjs-rocketseat-nlw-return/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/reactjs-rocketseat-nlw-return.svg">
   </a>
 </p>
 
